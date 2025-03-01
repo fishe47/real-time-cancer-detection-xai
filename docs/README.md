@@ -103,15 +103,7 @@ python scripts/train_model_with_xai.py
 
 ## Screenshots
 
-| **Original Image**             | **Grad-CAM**                  |
-|--------------------------------|-------------------------------|
-| ![Original](https://via.placeholder.com/300x200.png?text=Original+MRI) | ![Grad-CAM](https://via.placeholder.com/300x200.png?text=Grad-CAM) |
-
-| **Saliency Map**               | **LIME**                      |
-|--------------------------------|-------------------------------|
-| ![Saliency](https://via.placeholder.com/300x200.png?text=Saliency+Map) | ![LIME](https://via.placeholder.com/300x200.png?text=LIME) |
-
-*Note*: Replace placeholders with actual screenshots in the `assets/` folder (e.g., `assets/original.png`).
+![xAI and LLM output in GUI](assets/screenshot.jpg) 
 
 ---
 
