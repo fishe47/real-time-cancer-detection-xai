@@ -1,0 +1,11 @@
+PyQt6==6.6.0
+tensorflow==2.15.0
+keras==2.15.0
+opencv-python==4.9.0
+lime==0.2.0
+tf-keras-vis==0.8.6
+requests==2.31.0
+scikit-learn==1.4.0
+matplotlib==3.8.0
+numpy==1.26.0
+types-tensorflow==2.15.0.20240311  # Optional: For Pylance type checking
