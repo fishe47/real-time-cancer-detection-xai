@@ -36,7 +36,7 @@ IMG_SIZE = (224, 224)  # Match your model’s input size
 OUTPUT_FILE = "outputs/real_time_xai_output.json"  # Path for saving results
 PERFORMANCE_METRICS_FILE = "outputs/performance_metrics.json"  # Path for metrics
 API_URL = "https://api-inference.huggingface.co/models/meta-llama/Llama-3.2-3B-Instruct"  # LLM endpoint
-HUGGING_FACE_API_TOKEN = "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"  # Your Hugging Face API token
+HUGGING_FACE_API_TOKEN = "insert-your-token-here"  # Your Hugging Face API token
 
 # Class dictionary (hardcoded for simplicity, match test_with_h5.py)
 class_dict = {
